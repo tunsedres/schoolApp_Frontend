@@ -1,6 +1,9 @@
-# school_track
+
+# change base url
+```
 please replace the following base url with your endpoint base url
 axios.defaults.baseURL = 'http://school.local/'
+```
 
 ## Project setup
 ```
