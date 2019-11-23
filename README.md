@@ -1,4 +1,6 @@
 # school_track
+please replace the following base url with your endpoint base url
+axios.defaults.baseURL = 'http://school.local/'
 
 ## Project setup
 ```
